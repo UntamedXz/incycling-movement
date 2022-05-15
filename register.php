@@ -14,6 +14,8 @@
 </head>
 
 <body>
+    <div id="preloader"></div>
+
     <?php include './includes/navbar.php'; ?>
 
     <?php
@@ -108,6 +110,14 @@
         </form>
     </div>
 
+    <!-- SCRIPT -->
+    <script>
+        var loader = document.getElementById("preloader");
+
+        window.addEventListener("load", function () {
+            loader.style.display = "none";
+        })
+    </script>
     <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js">
     </script>

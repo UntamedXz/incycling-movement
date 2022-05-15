@@ -14,6 +14,8 @@
 </head>
 
 <body>
+    <div id="preloader"></div>
+
     <?php include './includes/navbar.php'; ?>
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto temporibus harum ea earum officiis repellat
@@ -52,6 +54,14 @@
         quos optio, soluta atque, delectus sapiente nemo magni corporis neque officiis voluptatem cupiditate explicabo
         rem, quaerat culpa incidunt dolor.</p>
 
+    <!-- SCRIPT -->
+    <script>
+        var loader = document.getElementById("preloader");
+
+        window.addEventListener("load", function () {
+            loader.style.display = "none";
+        })
+    </script>
     <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
     <script src="./assets/js/script.js"></script>
 </body>

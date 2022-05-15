@@ -14,6 +14,8 @@
 </head>
 
 <body>
+    <div id="preloader"></div>
+
     <?php include './includes/navbar.php'; ?>
 
     <!-- BANNER -->
@@ -150,8 +152,17 @@
     </section>
     <!-- SERVICES SECTION -->
 
+    <!-- SCRIPT -->
+    <script>
+        var loader = document.getElementById("preloader");
+
+        window.addEventListener("load", function () {
+            loader.style.display = "none";
+        })
+    </script>
     <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
     <script src="./assets/js/script.js"></script>
+    
 </body>
 
 </html>
