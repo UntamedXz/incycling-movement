@@ -307,7 +307,7 @@ li {
         .right {
             display: flex;
             align-items: center;
-            gap: 20px;
+            gap: 25px;
 
             .icons {
                 @media (min-width: 768px) {
@@ -326,7 +326,7 @@ li {
                         display: unset;
                     }
 
-                    display: block;
+                    display: inline-block;
                     position: relative;
                     // display: none;
 
@@ -355,14 +355,12 @@ li {
             }
 
             .divider {
-                @media (min-width: 768px) {
-                    display: block;
-                }
-
-                width: 1px;
-                background: var(--primary);
+                width: 1.5px;
+                color: var(--yellow);
+                background: var(--yellow);
                 height: 12px;
-                display: none;
+                display: flex;
+                align-items: center;
             }
 
             .profile {

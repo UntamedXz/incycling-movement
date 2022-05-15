@@ -254,7 +254,7 @@ li {
 #content nav .right {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 25px;
 }
 #content nav .right .icons {
   display: flex;
@@ -267,7 +267,7 @@ li {
   }
 }
 #content nav .right .icons .nav-link {
-  display: block;
+  display: inline-block;
   position: relative;
 }
 @media (min-width: 768px) {
@@ -297,15 +297,12 @@ li {
   color: #fff;
 }
 #content nav .right .divider {
-  width: 1px;
-  background: var(--primary);
+  width: 1.5px;
+  color: var(--yellow);
+  background: var(--yellow);
   height: 12px;
-  display: none;
-}
-@media (min-width: 768px) {
-  #content nav .right .divider {
-    display: block;
-  }
+  display: flex;
+  align-items: center;
 }
 #content nav .right .profile {
   position: relative;
