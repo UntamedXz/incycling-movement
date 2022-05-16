@@ -436,6 +436,7 @@ main {
     .breadcrumbs {
         display: flex;
         grid-gap: 6px;
+        margin-bottom: 10px;
 
         li {
             font-size: 14px;
@@ -453,6 +454,61 @@ main {
             &.divider {
                 color: var(--black);
                 pointer-events: none;
+            }
+        }
+    }
+
+    // INSERT CATEGORY PAGE
+    .insert-category {
+        margin-top: 10px;
+
+        .container {
+            border: .5px solid var(--black);
+            width: 100%;
+            height: 200px;
+            border-radius: 11px;
+            padding: 5px;
+            
+
+            .admin-title {
+                background-color: var(--black);
+                color: #fff;
+                border: none;
+                outline: none;
+                border-radius: 10px 10px 0 0;
+                padding: 5px 10px;
+                h4 {
+                    font-weight: 400;
+                }
+            }
+
+            form {
+                @media (min-width: 768px) {
+                    margin: 10px 10%;
+                }
+
+                @media (min-width: 1025px) {
+                    margin: 10px 20%;
+                }
+                margin: 10px 2%;
+                display: flex;
+                gap: 10px;
+                justify-content: center;
+                align-items: center;
+
+                span {
+                    display: inline-block;
+                }
+
+                input[type="text"] {
+                    display: inline-block;
+                    width: 100%;
+                    flex: 1;
+                    height: 30px;
+                    border-radius: 5px;
+                    outline: none;
+                    border: 1px solid var(--black);
+                }
             }
         }
     }

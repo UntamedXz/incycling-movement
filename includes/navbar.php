@@ -40,3 +40,12 @@
     </nav>
 </div>
 <!-- NAVBAR -->
+
+<script>
+    const mobile_Menu = document.querySelector('.mobile-menu');
+    const closeMenu = document.querySelector('#close-menu');
+
+    closeMenu.addEventListener('click', function() {
+        mobile_Menu.classList.remove('active');
+    })
+</script>

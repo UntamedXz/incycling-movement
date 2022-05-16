@@ -13,18 +13,19 @@
 </head>
 
 <body>
-
-
     <?php include 'top.php'; ?>
     <!-- MAIN -->
     <main>
-        <h1 class="title">Dashboard</h1>
+        <h1 class="title">View Category</h1>
         <ul class="breadcrumbs">
-            <li><a href="#" class="active">Home</a></li>
+            <li><a href="#">Home</a></li>
+            <li class="divider">/</li>
+            <li><a href="#" class="active">View Category</a></li>
         </ul>
         <section class="body">
-            DASHBOARD
+            View Category
         </section>
+
         <?php include 'bottom.php'; ?>
 </body>
 

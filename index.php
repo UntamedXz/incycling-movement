@@ -152,7 +152,6 @@
     </section>
     <!-- SERVICES SECTION -->
 
-    <!-- SCRIPT -->
     <script>
         var loader = document.getElementById("preloader");
 

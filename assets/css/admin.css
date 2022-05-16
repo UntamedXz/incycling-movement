@@ -367,6 +367,7 @@ main .title {
 main .breadcrumbs {
   display: flex;
   grid-gap: 6px;
+  margin-bottom: 10px;
 }
 main .breadcrumbs li {
   font-size: 14px;
@@ -382,6 +383,56 @@ main .breadcrumbs li a.active {
 main .breadcrumbs li.divider {
   color: var(--black);
   pointer-events: none;
+}
+main .insert-category {
+  margin-top: 10px;
+}
+main .insert-category .container {
+  border: 0.5px solid var(--black);
+  width: 100%;
+  height: 200px;
+  border-radius: 11px;
+  padding: 5px;
+}
+main .insert-category .container .admin-title {
+  background-color: var(--black);
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 10px 10px 0 0;
+  padding: 5px 10px;
+}
+main .insert-category .container .admin-title h4 {
+  font-weight: 400;
+}
+main .insert-category .container form {
+  margin: 10px 2%;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  main .insert-category .container form {
+    margin: 10px 10%;
+  }
+}
+@media (min-width: 1025px) {
+  main .insert-category .container form {
+    margin: 10px 20%;
+  }
+}
+main .insert-category .container form span {
+  display: inline-block;
+}
+main .insert-category .container form input[type=text] {
+  display: inline-block;
+  width: 100%;
+  flex: 1;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid var(--black);
 }
 
 /*# sourceMappingURL=admin.css.map */

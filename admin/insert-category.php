@@ -13,18 +13,27 @@
 </head>
 
 <body>
-
-
     <?php include 'top.php'; ?>
     <!-- MAIN -->
     <main>
-        <h1 class="title">Dashboard</h1>
+        <h1 class="title">Insert Category</h1>
         <ul class="breadcrumbs">
-            <li><a href="#" class="active">Home</a></li>
+            <li><a href="#">Home</a></li>
+            <li class="divider">/</li>
+            <li><a href="#" class="active">Insert Category</a></li>
         </ul>
-        <section class="body">
-            DASHBOARD
+        <section class="insert-category">
+            <div class="container">
+                <div class="admin-title">
+                    <h4>Insert Category</h4>
+                </div>
+                <form>
+                    <span>Category Title</span>
+                    <input type="text" name="category">
+                </form>
+            </div>
         </section>
+
         <?php include 'bottom.php'; ?>
 </body>
 
