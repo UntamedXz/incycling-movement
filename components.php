@@ -63,7 +63,7 @@
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
-                            <img src="https://cdn.shopify.com/s/files/1/0335/2166/4131/products/20017-150_CMPNT_SW-SL-STEM-W-EXPANDER-PLUG_POLISH-BLK_HERO_63dfc968-f24b-4a9b-9e7f-2296afd998a0_900x.jpg?v=1650911499"
+                            <img src="https://cdn.shopify.com/s/files/1/0335/2166/4131/products/20017-150_CMPNT_SW-SL-STEM-W-EXPANDER-PLUG_POLISH-BLK_HERO_dfbb2c2c-6524-4a11-9b2c-007e89608101_900x.jpg?v=1653097269"
                                 alt="">
                         </div>
                         <div class="details">

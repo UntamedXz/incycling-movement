@@ -41,7 +41,7 @@
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
-                            <img src="https://cdn.shopify.com/s/files/1/0335/2166/4131/products/LT0101-01_900x.jpg?v=1652487508"
+                            <img src="https://cdn.shopify.com/s/files/1/0335/2166/4131/products/LT0101-01_a300f7ae-f639-4dd2-8917-3a2d0c328e55_900x.jpg?v=1653070247"
                                 alt="">
                         </div>
                         <div class="details">
