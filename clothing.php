@@ -85,7 +85,7 @@
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
-                            <img src="https://cdn.shopify.com/s/files/1/0335/2166/4131/products/64119-296_APP_SL-JERSEY-SS-WMN-BLK-WHT-TEAM-M_HERO_900x.jpg?v=1650931607"
+                            <img src="https://cdn.shopify.com/s/files/1/0335/2166/4131/products/64120-290_APP_SL-JERSEY-SS-WMN-BLK-CHAR-TEAM-S_HERO_900x.jpg?v=1653088686"
                                 alt="">
                         </div>
                         <div class="details">
@@ -107,7 +107,7 @@
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
-                            <img src="https://cdn.shopify.com/s/files/1/0335/2166/4131/products/163398_900x.jpg?v=1650936646"
+                            <img src="https://cdn.shopify.com/s/files/1/0335/2166/4131/products/163398_95352eda-1081-474e-ae55-b75f074754cb_900x.jpg?v=1653117640"
                                 alt="">
                         </div>
                         <div class="details">
