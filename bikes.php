@@ -35,8 +35,8 @@
                         </div>
                         <div class="details">
                             <h5>2022 Cervelo Caledonia 105</h5>
-                            <h5 class="price">P167,969.60</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P167,969.60</h5><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -47,7 +47,8 @@
                         <div class="details">
                             <h5>2022 Pinarello Paris 105</h5>
                             <h5 class="price">P178,467.70</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -58,7 +59,8 @@
                         <div class="details">
                             <h5>2022 Cervelo Aspero Grx Rx810</h5>
                             <h5 class="price">P209,962.00</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -69,7 +71,8 @@
                         <div class="details">
                             <h5>2020 Specialized Roll Sport Low Entry</h5>
                             <h5 class="price">P41,992.40</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -80,7 +83,8 @@
                         <div class="details">
                             <h5>2022 Cannondale SuperSix EVO Carbon Disc Rival AXS Mantis</h5>
                             <h5 class="price">P241,456.30</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -91,7 +95,8 @@
                         <div class="details">
                             <h5>2021 Bianchi Pista Steel</h5>
                             <h5 class="price">P47,241.45</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -102,7 +107,8 @@
                         <div class="details">
                             <h5>2022 Cervelo S5 Rival Etap Axs</h5>
                             <h5 class="price">P362,184.45</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -113,7 +119,8 @@
                         <div class="details">
                             <h5>2022 Cervelo Caledonia Rival Etap Axs</h5>
                             <h5 class="price">P230,958.20</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -124,7 +131,8 @@
                         <div class="details">
                             <h5>Electra Townie Go! 5i Step Thru US 26</h5>
                             <h5 class="price">P154,846.45</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -135,7 +143,8 @@
                         <div class="details">
                             <h5>2021 Pinarello Grevil GRX2</h5>
                             <h5 class="price">P236,207.25</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -146,7 +155,8 @@
                         <div class="details">
                             <h5>2022 Cervelo S5 Ultegra Di2</h5>
                             <h5 class="price">P456,667.35</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -157,7 +167,8 @@
                         <div class="details">
                             <h5>2022 Cervelo Aspero-5 Force Xplr Etap Axs 1</h5>
                             <h5 class="price">P393,678.75</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                 </div>

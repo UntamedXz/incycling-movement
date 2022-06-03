@@ -36,7 +36,8 @@
                         <div class="details">
                             <h5>G-Form Moab Trail Gloves</h5>
                             <h5 class="price">P2,624.00</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -47,7 +48,8 @@
                         <div class="details">
                             <h5>Shimano W-RC5 Shoes</h5>
                             <h5 class="price">P5,038.56</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -58,7 +60,8 @@
                         <div class="details">
                             <h5>Swiftwick Pursuit Seven Wool Socks</h5>
                             <h5 class="price">P1,154.27</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -69,7 +72,8 @@
                         <div class="details">
                             <h5>Specialized Emma Trail Jersey Ss Wmn</h5>
                             <h5 class="price">P2,886.45</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -80,7 +84,8 @@
                         <div class="details">
                             <h5>Specialized Rbx Jersey Ss Wmn</h5>
                             <h5 class="price">P3,936.26</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -91,7 +96,8 @@
                         <div class="details">
                             <h5>Specialized Sl Jersey Ss Wmn</h5>
                             <h5 class="price">P1,467.11</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -102,7 +108,8 @@
                         <div class="details">
                             <h5>Specialized Sl R Jersey Ss</h5>
                             <h5 class="price">P2,411.94</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -113,7 +120,8 @@
                         <div class="details">
                             <h5>Specialized Andorra Wmn</h5>
                             <h5 class="price">P156.95</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -124,7 +132,8 @@
                         <div class="details">
                             <h5>Specialized Atlas Xc Comp Short</h5>
                             <h5 class="price">P5,511.50</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -135,7 +144,8 @@
                         <div class="details">
                             <h5>Specialized Deflect H2o Mtn Jacket Jacket</h5>
                             <h5 class="price">P4,616.54</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -146,7 +156,8 @@
                         <div class="details">
                             <h5>Specialized Rbx Jersey Ls Wmn</h5>
                             <h5 class="price">P1,782.05</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -157,7 +168,8 @@
                         <div class="details">
                             <h5>Specialized Trail-Series 3Xdry Short Wmn Short</h5>
                             <h5 class="price">P6,296.24</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                 </div>

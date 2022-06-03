@@ -36,7 +36,8 @@
                         <div class="details">
                             <h5>Specialized Hillbilly Grid 2Br</h5>
                             <h5 class="price">P837.22</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -47,7 +48,8 @@
                         <div class="details">
                             <h5>Shimano DXR BR-MX70</h5>
                             <h5 class="price">P2,519.02</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -58,7 +60,8 @@
                         <div class="details">
                             <h5>S-Works Power Saddle</h5>
                             <h5 class="price">P17,058.89</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -69,7 +72,8 @@
                         <div class="details">
                             <h5>S-Works Sl Stem W/ Expander Plug Stem</h5>
                             <h5 class="price">P6,560.79</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                           
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -80,7 +84,8 @@
                         <div class="details">
                             <h5>Shimano PD-M520 MTB SPD Pedal</h5>
                             <h5 class="price">P2,624.00</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -91,7 +96,8 @@
                         <div class="details">
                             <h5>Shimano Front Derailleur Parts</h5>
                             <h5 class="price">P157.47</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -102,8 +108,9 @@
                         <div class="details">
                             <h5>Shimano EW-SD300 eTube Di2 Wire</h5>
                             <h5 class="price">P1,469.21</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
-                        </div>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
+                          </div>
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
@@ -113,8 +120,9 @@
                         <div class="details">
                             <h5>Shimano STI Lever Hoods</h5>
                             <h5 class="price">P682.38</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
-                        </div>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
+                         </div>
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
@@ -124,8 +132,9 @@
                         <div class="details">
                             <h5>Shimano SM-BH90</h5>
                             <h5 class="price">P2,099.10</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
-                        </div>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
+                         </div>
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
@@ -135,8 +144,9 @@
                         <div class="details">
                             <h5>Shimano XTR RT-MT900 Disc Rotor</h5>
                             <h5 class="price">P4,618.64</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
-                        </div>
+                            <br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
+                         </div>
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
@@ -146,8 +156,9 @@
                         <div class="details">
                             <h5>Shimano Tourney RD-TY300/TZ50 Rear Derailleur</h5>
                             <h5 class="price">P786.83</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
-                        </div>
+                            
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
+                          </div>
                     </div>
                     <div class="catalog-box">
                         <div class="img-cont">
@@ -157,8 +168,8 @@
                         <div class="details">
                             <h5>Stan's No Tubes Tire Sealant Injector Syringe</h5>
                             <h5 class="price">P522.28</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
-                        </div>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
+                         </div>
                     </div>
                 </div>
                 <div id="load-more-products">
