@@ -35,8 +35,8 @@
                         </div>
                         <div class="details">
                             <h5>MKS Stainless Steel</h5>
-                            <h5 class="price">P1,941.62</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P1,941.62</h5><br><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -46,8 +46,8 @@
                         </div>
                         <div class="details">
                             <h5>Dumonde Lite BCL Lube 2oz</h5>
-                            <h5 class="price">P2,411.94</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P2,411.94</h5><br><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -57,8 +57,8 @@
                         </div>
                         <div class="details">
                             <h5>Industry Nine Torch Rear Bearing Kit</h5>
-                            <h5 class="price">P2,099.62</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P2,099.62</h5><br><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -68,8 +68,8 @@
                         </div>
                         <div class="details">
                             <h5>Specialized Replacement MTB Toe Stud Blk (Each)</h5>
-                            <h5 class="price">P51.97</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P51.97</h5><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -79,8 +79,8 @@
                         </div>
                         <div class="details">
                             <h5>Thule AeroBlade Edge Flush Mount 1/Bar MD</h5>
-                            <h5 class="price">P1,663.95</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P1,663.95</h5><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -90,8 +90,8 @@
                         </div>
                         <div class="details">
                             <h5>Specialized Stix Sport 2</h5>
-                            <h5 class="price">P1,309.64</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P1,309.64</h5><br><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -101,8 +101,8 @@
                         </div>
                         <div class="details">
                             <h5>Specialized Stix Sport 2 Black N/A</h5>
-                            <h5 class="price">P1,309.64</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P1,309.64</h5><br><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -112,8 +112,8 @@
                         </div>
                         <div class="details">
                             <h5>Sram Guide R Rear Disc Brake 1800mm Hose - USED</h5>
-                            <h5 class="price">P2,624.00</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P2,624.00</h5><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -123,8 +123,8 @@
                         </div>
                         <div class="details">
                             <h5>2020 Cannondale SuperSix Evo HM Fork</h5>
-                            <h5 class="price">P5,248.53</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P5,248.53</h5><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -134,8 +134,8 @@
                         </div>
                         <div class="details">
                             <h5>Spank Split Stem Org 43mm</h5>
-                            <h5 class="price">P5,248.53</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P5,248.53</h5><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -145,8 +145,8 @@
                         </div>
                         <div class="details">
                             <h5>Spank Split Stem Blue 38mm</h5>
-                            <h5 class="price">P5,248.53</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P5,248.53</h5><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                     <div class="catalog-box">
@@ -156,8 +156,8 @@
                         </div>
                         <div class="details">
                             <h5>Chrome Cell Holster BLK</h5>
-                            <h5 class="price">P5,248.53</h5>
-                            <button class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</button>
+                            <h5 class="price">P5,248.53</h5><br>
+                            <a href="product.php" class="order-btn"><i class='bx bxs-cart'></i>ORDER NOW</a>
                         </div>
                     </div>
                 </div>
